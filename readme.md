@@ -21,7 +21,7 @@ This plugin allows you to search for torrents on EXT.TO directly from the Unchai
 
 1. Open Unchained Android app
 2. Go to Settings → Search Engines → Repositories
-3. Add this repository URL: `https://raw.githubusercontent.com/YourUsername/unchained-ext-to-plugin/main/repository.json`
+3. Add this repository URL: `https://raw.githubusercontent.com/jeremysimons/unchained-ext-to-plugin/main/repository.json`
 4. The plugin will appear in your available plugins list
 5. Install it from there
 
@@ -58,7 +58,7 @@ If you encounter issues:
 1. Make sure you're using the latest version of Unchained Android
 2. Check that EXT.TO is accessible in your region
 3. Try accessing the site in a browser first
-4. Report issues in the [Issues](https://github.com/YourUsername/unchained-ext-to-plugin/issues) section
+4. Report issues in the [Issues](https://github.com/jeremysimons/unchained-ext-to-plugin/issues) section
 
 ## Contributing
 
