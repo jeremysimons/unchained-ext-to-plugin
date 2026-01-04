@@ -7,7 +7,7 @@
     {
       "name": "EXT.TO",
       "version": 1.0,
-      "url": "https://raw.githubusercontent.com/jeremysimons/unchained-ext-to-plugin/main/ext_to.unchained",
+      "url": "https://raw.githubusercontent.com/jeremysimons/unchained-ext-to-plugin/main/ext.to.unchained",
       "description": "Search plugin for EXT.TO torrent site",
       "author": "jeremysimoms",
       "changelog": "Initial release"
