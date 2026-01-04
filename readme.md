@@ -10,7 +10,7 @@ This plugin allows you to search for torrents on EXT.TO directly from the Unchai
 
 ### Method 1: Direct Installation
 
-1. Download the `ext_to.unchained` file from this repository
+1. Download the `ext.to.unchained` file from this repository
 2. Transfer it to your Android device
 3. Open the file with your file manager
 4. Select "Unchained" as the app to open it with
