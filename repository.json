@@ -1,16 +1,18 @@
 {
+  "repository_version": 1.0,
   "name": "EXT.TO Plugin Repository",
   "description": "Search plugins for EXT.TO torrent site",
   "author": "jeremysimons",
-  "version": "1.0",
   "plugins": [
     {
-      "name": "EXT.TO",
-      "version": "1.0",
-      "url": "https://raw.githubusercontent.com/jeremysimons/unchained-ext-to-plugin/main/ext.to.unchained",
-      "description": "Search plugin for EXT.TO torrent site",
-      "author": "jeremysimons",
-      "changelog": "Initial release"
+      "id": "ext_to",
+      "versions": [
+        {
+          "plugin": 1.0,
+          "engine": 2.0,
+          "link": "https://raw.githubusercontent.com/jeremysimons/unchained-ext-to-plugin/main/ext.to.unchained"
+        }
+      ]
     }
   ]
 }
