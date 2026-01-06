@@ -1,8 +1,7 @@
-# It does not work at this time due to ext.to's bot protection.
-
 # EXT.TO Plugin for Unchained Android
 
 This repository contains a search plugin for [EXT.TO](https://ext.to) that works with the [Unchained Android](https://github.com/LivingWithHippos/unchained-android) app.
+nb. it actual uses a mirror of ext.to
 
 ## What is this?
 
