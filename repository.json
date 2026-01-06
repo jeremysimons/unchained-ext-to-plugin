@@ -5,10 +5,10 @@
   "author": "jeremysimons",
   "plugins": [
     {
-      "id": "ext_to",
+      "id": "extto_org",
       "versions": [
         {
-          "plugin": 1.0,
+          "plugin": 1.1,
           "engine": 2.0,
           "link": "https://raw.githubusercontent.com/jeremysimons/unchained-ext-to-plugin/main/ext.to.unchained"
         }
