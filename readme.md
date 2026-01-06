@@ -1,4 +1,4 @@
-# this does not work at this time due to ext.to's bot protection.
+# It does not work at this time due to ext.to's bot protection.
 
 # EXT.TO Plugin for Unchained Android
 
