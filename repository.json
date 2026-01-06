@@ -8,7 +8,7 @@
       "id": "extto_org",
       "versions": [
         {
-          "plugin": 1.2,
+          "plugin": 1.3,
           "engine": 2.0,
           "link": "https://raw.githubusercontent.com/jeremysimons/unchained-ext-to-plugin/main/ext.to.unchained"
         }
